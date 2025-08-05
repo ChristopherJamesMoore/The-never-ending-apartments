@@ -1,34 +1,45 @@
-The Never Ending Apartments
-Climb. Fall. Repeat.
-The Never Ending Apartments is an exhilarating third-person parkour challenge where every leap matters. Your goal is simple: scale an vast apartment complex, reach the rooftop platform, and claim your point. But be warned — one misstep sends you plummeting into the abyss, and you’ll lose what you’ve earned.
+# 🏢 The Never Ending Apartments  
+**Climb. Fall. Repeat.**
 
-Features
-Addictive Loop: Climb to the roof, score a point, and get teleported back down to start again.
+The Never Ending Apartments is an exhilarating third-person parkour challenge where every leap matters.  
+Your goal is simple: scale a vast apartment complex, reach the rooftop platform, and claim your point.  
+But be warned — one misstep sends you plummeting into the abyss, and you’ll lose what you’ve earned.
 
-Risk & Reward Gameplay: Every successful run brings triumph, but a single fall takes away your progress.
+---
 
-Vertical Parkour Action: Test your reflexes and precision with challenging jumps and tricky routes.
+## ✨ Features
 
-Minimalist Yet Intense Atmosphere: Focus on movement and mastery in an ever-rising struggle.
+- **Addictive Loop**  
+  Climb to the roof, score a point, and get teleported back down to start again.
 
-Can You Conquer the Apartments?
-Each run is a test of skill and nerves. Push higher, climb faster, and see how many points you can rack up before gravity wins.
+- **Risk & Reward Gameplay**  
+  Every successful run brings triumph, but a single fall takes away your progress.
 
-Movement
-W – Move Forward
+- **Vertical Parkour Action**  
+  Test your reflexes and precision with challenging jumps and tricky routes.
 
-A – Move Left
+- **Minimalist Yet Intense Atmosphere**  
+  Focus on movement and mastery in an ever-rising struggle.
 
-S – Move Backward
+---
 
-D – Move Right
+## ❓ Can You Conquer the Apartments?
+Each run is a test of skill and nerves.  
+Push higher, climb faster, and see how many points you can rack up before gravity wins.
 
-Camera
+---
 
-Mouse Movement – Look around
+## 🎮 Controls
 
-Interaction & Actions
+### Movement
+- **W** – Move Forward  
+- **A** – Move Left  
+- **S** – Move Backward  
+- **D** – Move Right  
 
-Space – Jump
+### Camera
+- **Mouse Movement** – Look around  
 
-Double/ triple space – Double/ triple jump
+### Interaction & Actions
+- **Space** – Jump  
+- **Double/Triple Space** – Double/Triple Jump  

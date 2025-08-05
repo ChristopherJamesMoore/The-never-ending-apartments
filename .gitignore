@@ -43,3 +43,52 @@ Thumbs.db
 
 # Crash reports
 sysinfo.txt
+
+
+
+# Blender autosave folder
+**/autosave/
+
+# Blender cache files
+*.bphys
+*.cache
+*.pointcache
+*.pc2
+*.mdd
+
+# Fluid / smoke / physics caches
+**/cache_fluid/
+**/cache_smoke/
+**/cache/
+**/fluid_sim/
+**/smoke_sim/
+
+# Render outputs
+*.exr
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.tga
+*.bmp
+*.avi
+*.mov
+*.mp4
+*.mkv
+*.webm
+*.ogg
+*.wav
+*.mp3
+
+# Packed blend file previews
+*.blend_thumb.png
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and text editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
